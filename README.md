@@ -1,12 +1,10 @@
 ## ReactJS
 
-<hr>
-
 ## gerenciamento-produto-reactjs
 
 Sistema simples feito com ReacjJS, JSON Server, Boostrap e Axios
 
-=================================================================================
+<hr>
 
 ## Como Utilizar:
 
