@@ -16,13 +16,19 @@ Sistema simples feito com ReacjJS, JSON Server, Boostrap e Axios
 yarn install
 ```
 
-2. Na pasta principal, execute o comando para iniciar o servidor
+2. Execute o comando para instalar o servidor JSON Server
+
+```
+npm install -g json-server
+```
+
+3. Na pasta principal, execute o comando para iniciar o servidor
 
 ```
 yarn start
 ```
 
-3.  Na pasta principal, execute o comando para iniciar o servidor JSON
+4.  Na pasta principal, execute o comando para iniciar o servidor JSON
 
 ```
 json-server --watch db.json --port 3001
