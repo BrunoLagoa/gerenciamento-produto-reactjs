@@ -35,3 +35,4 @@ json-server --watch db.json --port 3001
 ---
 
 [Bruno Castro](http://www.bhzautomacao.com.br) - Development
+[João Paulo Pinheiro](https://joaopinheiro.xyz) - Development
